@@ -1,0 +1,11 @@
+{
+  "fecha_corte": "2026-11-18",
+  "prestamos": [
+    { "socio": "S-001", "libro": "Marianela", "fecha": "2026-11-10", "devuelto": null },
+    { "socio": "S-002", "libro": "Platero y yo", "fecha": "2026-10-20", "devuelto": null },
+    { "socio": "S-003", "libro": "Niebla", "fecha": "2026-09-25", "devuelto": null },
+    { "socio": "S-004", "libro": "La Regenta", "fecha": "2026-10-01", "devuelto": "2026-10-14" },
+    { "socio": "S-005", "libro": "Doña Perfecta", "fecha": "2026-10-05", "devuelto": "2026-10-28" },
+    { "socio": "S-006", "libro": "Campos de Castilla", "fecha": "2026-11-05", "devuelto": null }
+  ]
+}
