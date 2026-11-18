@@ -1,0 +1,1 @@
+Aqui se declaran las direcctrices para contribuir en el repositorio
